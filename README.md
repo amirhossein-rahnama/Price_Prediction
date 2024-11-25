@@ -150,11 +150,8 @@ Using Miniconda/Anaconda:
 ## Flow Diagram
 The main ML code is structured as depicted below. It offers a structured approach to data splitting, data preprocesing & model search.
 
-<a>
-  <p align="center">
-    <img width="900" height="600" src="Price_Prediction/other/flow_diagram.jpg" style='border:8px solid #bfbfbf'>
-  </p>
-</a>
+![image](https://github.com/user-attachments/assets/97c0625f-d7e8-42f8-8b2c-cf73c3c17113)
+
 
 
 ## Usage
