@@ -18,10 +18,8 @@ This repository presents an end-to-end process of approaching a machine learning
 ## App 
 The app is made with [Streamlit](https://streamlit.io/) and is tailored for a random forest model, providing feature importances and contributions. It also contains a useful 3D visualization made with the help of [pydeck](https://deckgl.readthedocs.io/en/latest/).
 
-https://user-images.githubusercontent.com/57716666/115991011-94978e00-a5c6-11eb-9c89-c38606b5325b.mp4
 
-## Data
-Data was collected through web scrapping of Sold Cleveland real-estate listings from [Zillow](https://www.zillow.com/) in various intervals from `01/4/2021` to `25/4/2021`. Data is open-sourced in this repository inside `/data/raw`.
+
 
 ### Listing example:
 ![](other/listing_example.jpg)
