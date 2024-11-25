@@ -152,7 +152,7 @@ The main ML code is structured as depicted below. It offers a structured approac
 
 <a>
   <p align="center">
-    <img width="900" height="600" src="./other/flow_diagram.jpg" style='border:8px solid #bfbfbf'>
+    <img width="900" height="600" src="Price_Prediction/other/flow_diagram.jpg" style='border:8px solid #bfbfbf'>
   </p>
 </a>
 
